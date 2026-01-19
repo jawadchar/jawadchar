@@ -11,7 +11,7 @@ These projects demonstrate how vulnerabilities are identified, validated, priori
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jawadchar/threat-hunting-scenario-tor)**
 
 <hr/>
 
