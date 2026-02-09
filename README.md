@@ -13,6 +13,7 @@ These projects demonstrate how vulnerabilities are identified, validated, priori
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jawadchar/threat-hunting-scenario-tor)**
 - **[Threat Hunting Incident: Publilc Facing IP Detection](https://github.com/jawadchar/public-ip-address-detection)**
+- **[Building KQL Maps for Data Visualiztion and Trend Spotting](https://github.com/jawadchar/kql-maps)**
 
 <hr/>
 
