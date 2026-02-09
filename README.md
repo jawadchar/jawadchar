@@ -12,6 +12,7 @@ These projects demonstrate how vulnerabilities are identified, validated, priori
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jawadchar/threat-hunting-scenario-tor)**
+- **[Threat Hunting Incident: Publilc Facing IP Detection](https://github.com/jawadchar/public-ip-address-detection)**
 
 <hr/>
 
