@@ -1,8 +1,10 @@
-# Jawad's IT and Cybersecurity Project Portfolio 🔐
+# Jawad | Security Engineer · Detection & Automation · Agentic AI for SOC 🔐
 
-I build hands-on cybersecurity projects that mirror how security operates in enterprise environments. My work focuses on vulnerability management, threat hunting, and security operations, with an emphasis on governance, risk-based decision making, and controlled execution.
+I build security tooling focused on detection engineering, vulnerability management, and AI-driven SOC automation. My projects are designed around enterprise constraints during production — SLAs, change management, risk-based prioritization, and controlled execution.
 
-These projects demonstrate how vulnerabilities are identified, validated, prioritized, remediated, and verified within real-world constraints such as change management, SLAs, and operational risk.
+Currently specializing in agentic AI for security operations: autonomous systems that can triage alerts, correlate threat context, and take action within platforms like Microsoft Sentinel and Defender XDR — reducing analyst toil on high-volume, low-complexity alerts so teams can focus on what matters.
+
+Core skills represented here: KQL · PowerShell · BASH · Microsoft Sentinel · Defender XDR · Vulnerability Management · Threat Hunting · AI Agent Design
 
 ## 🤖 AI & SOC Automation
 
