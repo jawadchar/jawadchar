@@ -4,6 +4,10 @@ I build hands-on cybersecurity projects that mirror how security operates in ent
 
 These projects demonstrate how vulnerabilities are identified, validated, prioritized, remediated, and verified within real-world constraints such as change management, SLAs, and operational risk.
 
+## 🤖 AI & SOC Automation
+
+- **[Alert Triage Agent - AI-powered SOC tooling for Microsoft Sentinel and Defender XDR](https://github.com/jawadchar/alert-triage)**
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/jawadchar/vulnerability-management-program)**
